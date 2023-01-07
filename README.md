@@ -1,3 +1,14 @@
+# Lecture
 
-테스트 배포 리드미입니다.
-# JenkinsTest
+## Website
+
+```sh
+```
+
+## Server
+
+```sh
+npm init
+npm install -D typescript
+npm i -S express jest
+```
